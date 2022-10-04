@@ -1,0 +1,9 @@
+com\daniel\client\connection\ResponseReceiver.class
+com\daniel\client\connection\RequestFactory.class
+com\daniel\client\managers\AuthManager.class
+com\daniel\client\util\MD5Password.class
+com\daniel\client\connection\ClientConnectionManager.class
+com\daniel\client\connection\RequestSender.class
+com\daniel\client\managers\ClientCommandManager.class
+com\daniel\client\util\InputScanner.class
+com\daniel\client\Client.class

@@ -1,0 +1,12 @@
+com\daniel\common\network\Response.class
+com\daniel\common\network\RequestType.class
+com\daniel\common\util\FileManager.class
+com\daniel\common\person\Person.class
+com\daniel\common\util\RequirementsChecker.class
+com\daniel\common\person\Color.class
+com\daniel\common\person\Location.class
+com\daniel\common\network\ResponseType.class
+com\daniel\common\network\Request.class
+com\daniel\common\person\Coordinates.class
+com\daniel\common\person\User.class
+com\daniel\common\util\StringParser.class
